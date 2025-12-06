@@ -1,5 +1,11 @@
-# static.py
-
+HTML = """
+When you walk through a storm
+Keep your chin up high
+And don’t be afraid of the dark.
+At the end of the storm
+Is a golden sky
+And the sweet, silver song of a lark
+"""
 HTML = """
 <!DOCTYPE html>
 <html>
